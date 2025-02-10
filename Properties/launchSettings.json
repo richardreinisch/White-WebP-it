@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "White WebP it (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "White WebP it (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
