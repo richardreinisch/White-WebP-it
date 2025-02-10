@@ -361,3 +361,20 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Security-sensitive files
+*.pfx
+*.cer
+*.appxsig
+
+# Build artifacts
+bin/
+obj/
+AppPackages/
+msix/
+
+# Visual Studio specific
+.vs/
+*.suo
+*.user
+*.vcxproj.user
